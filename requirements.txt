@@ -1,0 +1,5 @@
+streamlit>=1.35
+pandas>=2.0
+networkx>=3.2
+plotly>=5.20
+pymysql>=1.1
